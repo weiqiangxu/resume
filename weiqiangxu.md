@@ -16,12 +16,12 @@
 
 
 ## 个人优势
-1. 熟悉Golang并发同步原语，独立承担腾讯客服研发中心智能查询系统的架构设计，有丰富的单元测试经验（80%的单元测试覆盖率），参与制定团队编码规范，有code review经验，高效产出高质量代码。
-2. 熟悉Linux的常用命令，掌握定时任务\lnmp部署\Nginx规则编写\MySQL备份和主从配置\k8s集群搭建等。
-3. 熟练MySQL数据库使用以及常见优化手段，有Kafka\Redis\MongoDB\Elastic使用经验，掌握MySQL主从\Redis集群\MongoDB集群搭建和EFK搭建，有apisix插件二次开发经验,了解etcd服务注册发现机制\nacos配置台等
-4. 对golang搭建微服务架构（grpc通信）和java搭建的微服务架构有丰富的项目经验，架构基于k8s，对虚拟化。
-6. 熟练掌握Git(git flow开发规范)\Docker的使用。
-7. 在腾讯客服部和深信服都承担过PM角色，有项目管理经验，独立承担把控项目排期、多人分工、风险识别、交付节点把控等任务。
+1. 熟悉Linux的常用命令 
+2. 熟悉Golang并独立承担系统架构设计 
+3. 有丰富的MySQL\Kafka\Redis\MongoDB\Elastic\Prometheus使用经验 
+4. 熟悉基于k8s集群搭建的go&&java微服务架构
+5. 代码风格良好，熟悉单元测试编写，参与制定团队编码规范，有code review经验
+6. 有项目管理经验
 
 ## 工作经历
 

@@ -16,12 +16,13 @@
 
 ## 个人优势
 
-1. 有丰富的MySQL\Kafka\Redis\MongoDB\Elastic\Prometheus使用经验。
-2. 熟悉k8s生态下 Go-gin && RPC搭建的微服务架构的RESTful风格的web后台开发，了解java开发，熟悉PHP编程。
+1. 有丰富的MySQL\Kafka\Redis\Prometheus使用经验。
+2. 熟悉k8s生态下 Go-gin && RPC搭建的分布式微服务架构的RESTful风格的web后台开发，了解java开发，熟悉PHP编程。
 3. 熟悉k8s生态下资源使用，熟悉包括Go多架构镜像构建到helm包制作以及gitlab的CICD构建，参与过CNI插件开发，对虚拟化网络有一定的了解。
-4. 参与过安全容器方案预研，对CRI标准有一定的了解。
+4. 参与过安全容器接入多集群方案预研，对CRI标准有一定的了解。
 5. 代码风格良好，熟悉单元测试编写，参与制定团队编码规范，有code review经验。
 6. 有项目管理经验。
+7. 参与过多集群私有云平台管理平台系统的研发和标准化安装部署。
 
 ## 工作经历
 

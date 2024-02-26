@@ -20,15 +20,15 @@
 2. 有丰富的MySQL\Kafka\Redis\MongoDB\Elastic\Prometheus使用经验
 3. 熟悉基于k8s集群搭建的go微服务架构（基于gin），了解java开发，熟悉PHP编程。
 4. 代码风格良好，熟悉单元测试编写，参与制定团队编码规范，有code review经验
-5. 有项目管理经验
+5. 有项目管理经验，负责过基于产品
 
 ## 工作经历
 
 #### 品高云 后台开发工程师（2023.02 - ）
 
-1. 参与品高容器云CNI插件开发（网段创建、ipam等接口开发、CRD ClientSet 和 Informer事件处理等）。
-2. 构建NVS的CI流程，承担部分NVS的golang代码走读任务；
-3. 容器云安装部署标准化，管理组件（ingress-nginx\registry\chartmuseum\harbor等组件）的标准化等。
+1. 参与品高容器云CNI插件方案评审。负责网段相关RESTful接口开发和测试、负责编写CNI的ipam逻辑、CRD ClientSet的Informer事件处理等。构建NVS的CI流程，承担部分NVS的golang代码走读任务，编写golang开发规范提升单元测试覆盖率。
+2. 负责容器云-中心云安装部署标准化方案预研和落地。基于易用性和稳定性、兼容性角度提供标准化方案，其中包括多集群管理后台打包（支持CI自动化打包）和安装（支持linux下amd和arm架构多个操作系统下一键部署、支持多种容器运行时、CNI插件等）。
+3. 负责多集群管理平台的迁移部署标准化方案预研和落地。包括管理组件（ingress-nginx\registry\chartmuseum\harbor等组件）的标准化安装和部署等（组件管理页面的API接口开发）。
 4. 使用Go开发自动打包工具、CRI-kata安全容器接入。
 
 #### 刀锋互娱 后台开发工程师（2022.10 - 2023.02）

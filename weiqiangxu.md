@@ -16,11 +16,12 @@
 
 ## 个人优势
 
-1. 熟悉Golang并独立承担系统架构设计，熟悉多架构镜像构建到helm包制作到部署以及CICD流程构建，熟悉k8s的使用，参与过CNI插件开发。
-2. 有丰富的MySQL\Kafka\Redis\MongoDB\Elastic\Prometheus使用经验。
-3. 熟悉基于k8s集群搭建的go微服务架构（基于gin），了解java开发，熟悉PHP编程。
-4. 代码风格良好，熟悉单元测试编写，参与制定团队编码规范，有code review经验。
-5. 有项目管理经验。
+1. 有丰富的MySQL\Kafka\Redis\MongoDB\Elastic\Prometheus使用经验。
+2. 熟悉k8s生态下 Go-gin && RPC搭建的微服务架构的RESTful风格的web后台开发，了解java开发，熟悉PHP编程。
+3. 熟悉k8s生态下资源使用，熟悉包括Go多架构镜像构建到helm包制作以及gitlab的CICD构建，参与过CNI插件开发，对虚拟化网络有一定的了解。
+4. 参与过安全容器方案预研，对CRI标准有一定的了解。
+5. 代码风格良好，熟悉单元测试编写，参与制定团队编码规范，有code review经验。
+6. 有项目管理经验。
 
 ## 工作经历
 

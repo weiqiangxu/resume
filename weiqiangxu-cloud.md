@@ -16,7 +16,7 @@
 
 ## 个人优势
 
-1.熟悉k8s生态下 Go-gin && RPC分布式微服务架构 RESTful  接口开发
+1.熟悉k8s生态下 Go-gin && RPC分布式微服务架构 RESTful 接口开发
 2.熟悉 Go多架构镜像构建到helm包制作以及 gitlab的 CI构建
 3.参与过 CNI  插件开发，对k8s的 CRD informer  和虚拟化网络有一定的了解
 4.熟悉单元测试编写，参与制定团队编码规范，有 code review  经验
